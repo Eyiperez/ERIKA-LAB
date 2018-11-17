@@ -1,0 +1,87 @@
+body {
+    background-color:grey;
+    margin: 35px;
+    border: 6px solid pink;
+    max-width: 1440px;
+    color:white;
+    box-sizing: border-box;   
+}
+
+h2 {
+    color:pink;
+    font-weight: bold;  
+    display: inline;
+}
+
+a {
+    color:rgb(74, 208, 231);
+    font-weight: bold;
+}
+
+.noLink {
+    color:white;
+}
+
+.line {
+    background-color: pink;
+    height: 3px;
+    width: 95%;
+    display: inline-block;
+}
+
+.intro {
+    text-align: center;
+    margin: 50px;  
+}
+
+.my-name {
+    color:white;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 50px;
+    padding: 40px;
+    margin-top: 20px;
+}
+
+.tabs :hover {
+    color: hotpink;
+}
+
+
+.profiles {
+    text-align: center;
+    margin: 50px;
+}
+
+.narrative {
+   padding: 0px 85px;
+}
+
+.links {
+    padding: 100px;
+}
+
+img {
+    border: 3px solid pink;
+    padding: 5px;
+}
+
+.picture {
+    text-align: center;
+}
+
+.list h3 {
+    color: lightgray;
+}
+
+.narrative h1 {
+    font-size: 50px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.strong {
+    font-size: 23px;
+}
